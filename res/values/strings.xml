@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Maestro SSC</string>
+    <string name="home">Home</string>
+    <string name="pwm">PWM</string>
+    <string name="pwmOnTime">PWM On Time</string>
+    <string name="pwmperiod">PWM Period</string>
+    <string name="ontime">On Time</string>
+    <string name="period">Period</string>
+    <string name="errors"></string>
+    <string name="position">Position</string>
+    <string name="speed">Speed</string>
+    <string name="acceleration">Acceleration</string>
+    <string name="channel1">Channel 1</string>
+    <string name="channel2">Channel 2</string>
+    <string name="channel3">Channel 3</string>
+    <string name="channel4">Channel 4</string>
+    <string name="channel5">Channel 5</string>
+    <string name="channel6">Channel 6</string>
+    <string name="moveAllChannelsToHomePosition">Home</string>
+
+</resources>

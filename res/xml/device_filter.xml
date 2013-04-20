@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2011 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- vendor 8187 (0x1ffb) and product 137 (0x0089) ID for Pololu 6 Channel Maestro Servo Controller -->
+        <usb-device vendor-id="8187" product-id="137"/>
+    <!-- vendor 8187 (0x1ffb) and product 138 (0x008A) ID for Pololu 12 Channel Maestro Servo Controller -->
+        <usb-device vendor-id="8187" product-id="138"/>
+    <!-- vendor 8187 (0x1ffb) and product 139 (0x008B) ID for Pololu 24 Channel Maestro Servo Controller NOTE: Not verified! -->
+        <usb-device vendor-id="8187" product-id="139"/>
+</resources>
