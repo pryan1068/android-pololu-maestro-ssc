@@ -1,4 +1,4 @@
-![Pololu Logo](https://raw.github.com/pryan1068/maestroSSC/master/MaestroSSC/res/drawable-hdpi/ic_launcher.png)
+![Pololu Logo](https://raw.github.com/pryan1068/android-pololu-maestro-ssc/master/res/drawable-hdpi/ic_launcher.png)
 Maestro Serial Servo Controller (SSC)
 ======
 
@@ -8,7 +8,7 @@ This project displays 6 sliders for controlling servos via a Pololu Maestro Seri
 
 This is intended to demonstrate how to use an Android device to control Maestro products that are attached via an On-The-Go (OTG) USB cable (Try EBay or Adafruit).
 
-![Class Diagram](https://raw.github.com/pryan1068/maestroSSC/master/MaestroSSC/Class%20Diagram.jpg)
+![Class Diagram](https://raw.github.com/pryan1068/android-pololu-maestro-ssc/master/Class%20Diagram.jpg)
 
 ## Requirements:
 
